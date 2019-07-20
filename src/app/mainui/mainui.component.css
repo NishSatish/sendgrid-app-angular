@@ -1,0 +1,17 @@
+.card {
+  height: 280px;
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+.form-control {
+  position: relative;
+  margin-top: 30%;
+}
+
+button {
+  position: relative;
+  margin-top: 30%;
+}
