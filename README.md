@@ -1,27 +1,13 @@
 # SendgridApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+A quick start SendGrid implementation that provisions an Angular frontend.
+Run ```npm install``` to install dependencies and get started.
 
-## Development server
+# Using the SendGrid API
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To use the SendGrid API, create a SendGrid account and obtain the API key from your SendGrid dashboard. Paste the key into the nodemon.json file as the value for the "SENDGRID_API_KEY" key. (NOTE: nodemon is not suited for production environments, so the API key must be injected through another method for production)
 
-## Code scaffolding
+# Contributions
+Feel free to contribute! From new features to refactoring, pull requests are open for all.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Have an idea for a project or collab in mind? Say hello at [Instagram](https://instagram.com/nishsatish) | [Twitter](https://twitter.com/nishsatish)
